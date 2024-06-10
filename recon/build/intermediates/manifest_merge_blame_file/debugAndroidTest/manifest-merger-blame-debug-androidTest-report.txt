@@ -1,0 +1,271 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.aj.recon.test" >
+4
+5    <uses-sdk
+5-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:5:5-74
+6        android:minSdkVersion="30"
+6-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:5:15-41
+7        android:targetSdkVersion="34" />
+7-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:11:5-15:67
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:11:22-76
+11        android:functionalTest="false"
+11-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:13:22-53
+13        android:label="Tests for com.aj.recon.test"
+13-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:15:22-65
+14        android:targetPackage="com.aj.recon.test" />
+14-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:12:22-63
+15
+16    <uses-permission android:name="android.permission.REORDER_TASKS" />
+16-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:24:5-72
+16-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:24:22-69
+17
+18    <permission
+18-->[androidx.core:core:1.13.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\37e287f9a9e105dc80ab042364121734\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.aj.recon.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.13.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\37e287f9a9e105dc80ab042364121734\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.13.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\37e287f9a9e105dc80ab042364121734\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.aj.recon.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.13.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\37e287f9a9e105dc80ab042364121734\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.13.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\37e287f9a9e105dc80ab042364121734\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+23
+24    <queries>
+24-->[androidx.test:runner:1.5.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\af075e62fc2c861c929ba55f39557518\transformed\runner-1.5.2\AndroidManifest.xml:24:5-28:15
+25        <package android:name="androidx.test.orchestrator" />
+25-->[androidx.test:runner:1.5.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\af075e62fc2c861c929ba55f39557518\transformed\runner-1.5.2\AndroidManifest.xml:25:9-62
+25-->[androidx.test:runner:1.5.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\af075e62fc2c861c929ba55f39557518\transformed\runner-1.5.2\AndroidManifest.xml:25:18-59
+26        <package android:name="androidx.test.services" />
+26-->[androidx.test:runner:1.5.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\af075e62fc2c861c929ba55f39557518\transformed\runner-1.5.2\AndroidManifest.xml:26:9-58
+26-->[androidx.test:runner:1.5.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\af075e62fc2c861c929ba55f39557518\transformed\runner-1.5.2\AndroidManifest.xml:26:18-55
+27        <package android:name="com.google.android.apps.common.testing.services" />
+27-->[androidx.test:runner:1.5.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\af075e62fc2c861c929ba55f39557518\transformed\runner-1.5.2\AndroidManifest.xml:27:9-83
+27-->[androidx.test:runner:1.5.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\af075e62fc2c861c929ba55f39557518\transformed\runner-1.5.2\AndroidManifest.xml:27:18-80
+28    </queries> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+29    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+30-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:22-76
+31    <uses-permission android:name="android.permission.INTERNET" />
+31-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+31-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:22-64
+32
+33    <application
+33-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:7:5-9:19
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.13.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\37e287f9a9e105dc80ab042364121734\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+35        android:debuggable="true"
+36        android:extractNativeLibs="false" >
+37        <uses-library android:name="android.test.runner" />
+37-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:8:9-60
+37-->C:\Users\ajay.suresh\AndroidStudioProjects\mobiLM\recon\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest13564096359263931204.xml:8:23-57
+38
+39        <activity
+39-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:27:9-34:20
+40            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+40-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:28:13-99
+41            android:exported="true"
+41-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:29:13-36
+42            android:theme="@style/WhiteBackgroundTheme" >
+42-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:30:13-56
+43            <intent-filter android:priority="-100" >
+43-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+43-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+44-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:35:9-42:20
+48            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+48-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:36:13-95
+49            android:exported="true"
+49-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:37:13-36
+50            android:theme="@style/WhiteBackgroundTheme" >
+50-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:38:13-56
+51            <intent-filter android:priority="-100" >
+51-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+51-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+52-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:43:9-50:20
+56            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+56-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:44:13-103
+57            android:exported="true"
+57-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:45:13-36
+58            android:theme="@style/WhiteBackgroundDialogTheme" >
+58-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:46:13-62
+59            <intent-filter android:priority="-100" >
+59-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:31:13-33:29
+59-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:31:28-51
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:32:17-77
+60-->[androidx.test:core:1.5.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\947b3b83c298187fb68b18766a350703\transformed\core-1.5.0\AndroidManifest.xml:32:27-74
+61            </intent-filter>
+62        </activity>
+63
+64        <service
+64-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.0.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\25b3bfe97bd49f95df051991cf575982\transformed\play-services-mlkit-text-recognition-common-19.0.0\AndroidManifest.xml:9:9-15:19
+65            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+65-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.0.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\25b3bfe97bd49f95df051991cf575982\transformed\play-services-mlkit-text-recognition-common-19.0.0\AndroidManifest.xml:10:13-91
+66            android:directBootAware="true"
+66-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:17:13-43
+67            android:exported="false" >
+67-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.0.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\25b3bfe97bd49f95df051991cf575982\transformed\play-services-mlkit-text-recognition-common-19.0.0\AndroidManifest.xml:11:13-37
+68            <meta-data
+68-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.0.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\25b3bfe97bd49f95df051991cf575982\transformed\play-services-mlkit-text-recognition-common-19.0.0\AndroidManifest.xml:12:13-14:85
+69                android:name="com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar"
+69-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.0.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\25b3bfe97bd49f95df051991cf575982\transformed\play-services-mlkit-text-recognition-common-19.0.0\AndroidManifest.xml:13:17-114
+70                android:value="com.google.firebase.components.ComponentRegistrar" />
+70-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.0.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\25b3bfe97bd49f95df051991cf575982\transformed\play-services-mlkit-text-recognition-common-19.0.0\AndroidManifest.xml:14:17-82
+71            <meta-data
+71-->[com.google.mlkit:vision-common:17.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\6da8d5d9eb4e9ada119b6dc85815538d\transformed\vision-common-17.3.0\AndroidManifest.xml:12:13-14:85
+72                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+72-->[com.google.mlkit:vision-common:17.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\6da8d5d9eb4e9ada119b6dc85815538d\transformed\vision-common-17.3.0\AndroidManifest.xml:13:17-124
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.mlkit:vision-common:17.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\6da8d5d9eb4e9ada119b6dc85815538d\transformed\vision-common-17.3.0\AndroidManifest.xml:14:17-82
+74            <meta-data
+74-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:20:13-22:85
+75                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+75-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:21:17-120
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:22:17-82
+77        </service>
+78
+79        <provider
+79-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:9:9-13:38
+80            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+80-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:10:13-78
+81            android:authorities="com.aj.recon.test.mlkitinitprovider"
+81-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:11:13-69
+82            android:exported="false"
+82-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:12:13-37
+83            android:initOrder="99" />
+83-->[com.google.mlkit:common:18.8.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a5ad92090428d315e87852acea74c14b\transformed\common-18.8.0\AndroidManifest.xml:13:13-35
+84
+85        <activity
+85-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a12df295a35b1e0210bdc5e6c799b122\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+86            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+86-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a12df295a35b1e0210bdc5e6c799b122\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+87            android:exported="false"
+87-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a12df295a35b1e0210bdc5e6c799b122\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+88-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\a12df295a35b1e0210bdc5e6c799b122\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+89
+90        <meta-data
+90-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\681c30aaec54354bd576cc4c82def14a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+91            android:name="com.google.android.gms.version"
+91-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\681c30aaec54354bd576cc4c82def14a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+92            android:value="@integer/google_play_services_version" />
+92-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\681c30aaec54354bd576cc4c82def14a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+93
+94        <provider
+94-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\3223b4d55e1856850b103178e872472d\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+95            android:name="androidx.startup.InitializationProvider"
+95-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\3223b4d55e1856850b103178e872472d\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+96            android:authorities="com.aj.recon.test.androidx-startup"
+96-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\3223b4d55e1856850b103178e872472d\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+97            android:exported="false" >
+97-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\3223b4d55e1856850b103178e872472d\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+98            <meta-data
+98-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\3223b4d55e1856850b103178e872472d\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+99                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+99-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\3223b4d55e1856850b103178e872472d\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+100                android:value="androidx.startup" />
+100-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ajay.suresh\.gradle\caches\transforms-3\3223b4d55e1856850b103178e872472d\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+101            <meta-data
+101-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\8442c8b917a2351faf90060e899c8881\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+102                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+102-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\8442c8b917a2351faf90060e899c8881\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+103                android:value="androidx.startup" />
+103-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ajay.suresh\.gradle\caches\transforms-3\8442c8b917a2351faf90060e899c8881\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+104            <meta-data
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+105                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+106                android:value="androidx.startup" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+107        </provider>
+108
+109        <receiver
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+110            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+111            android:directBootAware="false"
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+112            android:enabled="true"
+112-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+113            android:exported="true"
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+114            android:permission="android.permission.DUMP" >
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+116                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+117            </intent-filter>
+118            <intent-filter>
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+119                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+120            </intent-filter>
+121            <intent-filter>
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+122                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+123            </intent-filter>
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+125                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ajay.suresh\.gradle\caches\transforms-3\7eff7847ca7a52756260348ec99ad3b6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+126            </intent-filter>
+127        </receiver>
+128
+129        <service
+129-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+130            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+130-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+131            android:exported="false" >
+131-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+132            <meta-data
+132-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+133                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+133-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+134                android:value="cct" />
+134-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ajay.suresh\.gradle\caches\transforms-3\5fbe76d4f1be37346bc64dccca414f01\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+135        </service>
+136        <service
+136-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ajay.suresh\.gradle\caches\transforms-3\06dd5407e55cb75dd9382681b97658bb\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+137            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+137-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ajay.suresh\.gradle\caches\transforms-3\06dd5407e55cb75dd9382681b97658bb\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+138            android:exported="false"
+138-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ajay.suresh\.gradle\caches\transforms-3\06dd5407e55cb75dd9382681b97658bb\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+139            android:permission="android.permission.BIND_JOB_SERVICE" >
+139-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ajay.suresh\.gradle\caches\transforms-3\06dd5407e55cb75dd9382681b97658bb\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+140        </service>
+141
+142        <receiver
+142-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ajay.suresh\.gradle\caches\transforms-3\06dd5407e55cb75dd9382681b97658bb\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+143            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+143-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ajay.suresh\.gradle\caches\transforms-3\06dd5407e55cb75dd9382681b97658bb\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+144            android:exported="false" />
+144-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ajay.suresh\.gradle\caches\transforms-3\06dd5407e55cb75dd9382681b97658bb\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+145    </application>
+146
+147</manifest>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.aj.recon-merged_res-32:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/interpolator/mtrl_linear.xml",
+        "source": "com.aj.recon-material-1.12.0-25:/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/interpolator/fast_out_slow_in.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    }
+]

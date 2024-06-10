@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.aj.recon-merged_res-32:/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "com.aj.recon-material-1.12.0-25:/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/animator-v21/m3_appbar_state_list_animator.xml",
+        "source": "com.aj.recon-material-1.12.0-25:/animator-v21/m3_appbar_state_list_animator.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.aj.recon-merged_res-32:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.aj.recon-merged_res-32:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.aj.recon-appcompat-1.7.0-10:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
